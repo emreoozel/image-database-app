@@ -39,7 +39,6 @@ The app expects a SQL Server database (default name: `Resimler`) with at least t
 3. Create the `Resimler` database and the tables listed above in your local SQL Server instance.
 4. Update the connection string in `App.config` (and in each form's code-behind) to point to your own SQL Server instance name.
 5. Build and run the project (F5).
-6. Username: admin, Password: 1234
 
 ## Notes
 
