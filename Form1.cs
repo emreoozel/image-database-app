@@ -79,7 +79,7 @@ namespace Proje
                     resimYoluLbl.Text = "";
                     resimBoyutuLbl.Text = "";
                     resimTarihiLbl.Text = "";
-                    pictureBox1.Image = new Bitmap("C:\\Users\\Emre Özel\\source\\repos\\Proje\\563d0201e4359c2e890569e254ea14790eb370b71d08b6de5052511cc0352313.jpg");
+                    pictureBox1.Image =  Properties.Resources.Adsız;
                 } else {
                     MessageBox.Show("Lütfen bir isim girin", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
