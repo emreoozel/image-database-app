@@ -1,0 +1,12 @@
+C:\Users\Emre Özel\source\repos\Proje\bin\Debug\Proje.exe.config
+C:\Users\Emre Özel\source\repos\Proje\bin\Debug\Proje.exe
+C:\Users\Emre Özel\source\repos\Proje\bin\Debug\Proje.pdb
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.exe
+C:\Users\Emre Özel\source\repos\Proje\obj\Debug\Proje.pdb
